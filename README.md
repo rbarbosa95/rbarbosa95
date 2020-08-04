@@ -1,16 +1,14 @@
-### Hi there 👋
+# Ramon Barbosa
 
-<!--
-**rbarbosa95/rbarbosa95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder @CreativeHandOficial.
 
-Here are some ideas to get you started:
+[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/ramon-guimaraes/) 
+[![Gmail Badge](https://img.shields.io/badge/-ramon@creativehand.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ramon@creativehand.com.br)](mailto:ramon@creativehand.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Passionate about codes and game production.
+
+Front-end developer for over eight years, focused on web performance and specialist in VueJs.
+ 
+"If you can imagine, you can create".
