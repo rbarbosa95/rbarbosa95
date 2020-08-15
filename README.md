@@ -9,6 +9,6 @@ Founder @CreativeHandOficial.
 
 Passionate about codes and game production.
 
-Front-end developer for over eight years, focused on web performance and specialist in VueJs.
+Front-end developer for over 8 years, focusing on web performance and development with VueJs.
  
 "If you can imagine, you can create".
