@@ -30,6 +30,17 @@ Front-end developer for over 8 years, focusing on web performance and developmen
 
 ##
 
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@rbarbosa95_-3bc29b?style=flat-square&labelColor=3bc29b&logo=twitter&logoColor=white&link=https://twitter.com/DramonOf)](https://twitter.com/rbarbosa95_) 
-[![Linkedin Badge](https://img.shields.io/badge/-Ramon%20Barbosa-3bc29b?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramon-guimaraes/)](https://www.linkedin.com/in/ramon-guimaraes/) 
-[![Gmail Badge](https://img.shields.io/badge/-ramon@creativehand.com.br-3bc29b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ramon@creativehand.com.br)](mailto:ramon@creativehand.com.br) -->
+<div> 
+  <a href="https://www.linkedin.com/in/ramon-guimaraes/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://www.instagram.com/rbarbosa95/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href=" http://discord.gg/aaFwfht" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a> 
+  <a href = "mailto:desigenrramon@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
