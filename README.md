@@ -25,7 +25,7 @@ Front-end developer for over 8 years, focusing on web performance and developmen
   <img align="center" alt="Ramon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ramon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ramon-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="right" alt="Ramon-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1109271168794718208/YK5DDNyk_400x400.png">
+  <img align="right" alt="Ramon-pic" height="150" style="border-radius: 50px;" src="https://pbs.twimg.com/profile_images/1109271168794718208/YK5DDNyk_400x400.png">
 </div>
 
 ##
