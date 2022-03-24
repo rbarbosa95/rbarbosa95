@@ -4,7 +4,7 @@ Front-end Developer <a href="https://www.linkedin.com/company/grupo-primo/"> @Gr
 
 Passionate about codes and game production.
 
-Front-end developer for over 8 years, focusing on web performance and development with VueJs.
+Front-end developer for over 9 years, focusing on web performance and development with VueJs.
 
 "If you can imagine, you can create".
 
