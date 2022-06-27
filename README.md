@@ -45,4 +45,4 @@ Front-end developer for over 9 years, focusing on web performance and developmen
   </a>
 </div>
 
-  ![Snake animation](https://github.com/rbarbosa95/rbarbosa95/blob/output/github-contribution-grid-snake.svg)
+
