@@ -1,6 +1,6 @@
 # Ramon Barbosa
 
-Front-end Developer <a href="https://www.linkedin.com/company/grupo-primo/"> @GrupoPrimo </a> and founder <a href="https://www.creativehand.com.br/"> @CreativeHandOficial </a>
+Front-end Developer and founder <a href="https://www.creativehand.com.br/"> @CreativeHandOficial </a>
 
 Passionate about codes and game production.
 
