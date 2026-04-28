@@ -1,41 +1,69 @@
-# Ramon Barbosa
+<div align="center">
 
-Front-end Developer and founder <a href="https://www.creativehand.com.br/"> @CreativeHandOficial </a>
+```
+██████╗  █████╗ ███╗   ███╗ ██████╗ ███╗   ██╗
+██╔══██╗██╔══██╗████╗ ████║██╔═══██╗████╗  ██║
+██████╔╝███████║██╔████╔██║██║   ██║██╔██╗ ██║
+██╔══██╗██╔══██║██║╚██╔╝██║██║   ██║██║╚██╗██║
+██║  ██║██║  ██║██║ ╚═╝ ██║╚██████╔╝██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+```
 
-Passionate about codes and game production.
+### CEO & Game Producer · Front-end Developer
 
-Front-end developer for over 9 years, focusing on web performance and development with VueJs.
+<a href="https://www.linkedin.com/in/ramon-guimaraes/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/rbarbosa95/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="http://discord.gg/aaFwfht" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="mailto:desigenrramon@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-"If you can imagine, you can create".
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ramon-VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Ramon-VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
-  <img align="center" alt="Ramon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ramon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ramon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ramon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ramon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ramon-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="right" alt="Ramon-pic" height="150" style="border-radius: 50px;" src="https://pbs.twimg.com/profile_images/1109271168794718208/YK5DDNyk_400x400.png">
 </div>
 
-##
+---
 
-<div> 
-  <a href="https://www.linkedin.com/in/ramon-guimaraes/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="https://www.instagram.com/rbarbosa95/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href=" http://discord.gg/aaFwfht" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a> 
-  <a href = "mailto:desigenrramon@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+## 👾 About Me
+
+I'm **Ramon Barbosa**, CEO and Producer at [**Creative Hand**](https://www.creativehand.com.br/) — a game studio where I lead production and development. We've shipped **5 titles** and were honored to win the **2023 Google Indie Games Fund** 🏆
+
+Before going all-in on games, I built a solid career as a **Front-end Developer** (9+ years), crafting scalable, high-performance platforms for companies like:
+
+- 🏦 **Banco Modal**
+- 📈 **Grupo PRIMO**
+- 🌐 **Portal Smiles**
+- 🚀 **Staart**
+
+> *"If you can imagine, you can create."*
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 </div>
 
+---
 
+## 🎮 Creative Hand Studio
+
+| | |
+|---|---|
+| 🕹️ **Titles Released** | 5 games shipped |
+| 🏆 **Award** | Google Indie Games Fund 2023 |
+| 🔗 **Studio** | [creativehand.com.br](https://www.creativehand.com.br/) |
