@@ -32,12 +32,7 @@
 
 I'm **Ramon Barbosa**, CEO and Producer at [**Creative Hand**](https://www.creativehand.com.br/) — a game studio where I lead production and development. We've shipped **5 titles** and were honored to win the **2023 Google Indie Games Fund** 🏆
 
-Before going all-in on games, I built a solid career as a **Front-end Developer** (9+ years), crafting scalable, high-performance platforms for companies like:
-
-- 🏦 **Banco Modal**
-- 📈 **Grupo PRIMO**
-- 🌐 **Portal Smiles**
-- 🚀 **Staart**
+Before going all-in on games, I built a solid career as a **Front-end Developer** (14+ years), crafting scalable, high-performance platforms for companies like **Banco Modal**, **Grupo PRIMO**, **Portal Smiles** and **Staart**.
 
 > *"If you can imagine, you can create."*
 
